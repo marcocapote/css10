@@ -1,0 +1,47 @@
+body{
+    background: black;
+}
+p{
+color: aqua;
+font-family: 'Courier New', Courier, monospace;
+}
+p.p1{
+color: blue;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p.p2{
+color: beige;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+p.p3{
+color: brown;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p.p4{
+color: burlywood;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p.p5{
+color: chocolate;
+font-family: 'Times New Roman', Times, serif;
+}
+p.p6{
+color: coral;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+p.p7{
+color: aquamarine;
+font-family: Arial, Helvetica, sans-serif;
+}
+p.p8{
+color: cornflowerblue;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p.p9{
+color: darkmagenta;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    color: white;
+    font-size: 60px;
+}
